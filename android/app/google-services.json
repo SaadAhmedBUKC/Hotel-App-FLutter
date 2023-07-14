@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375853310694",
+    "project_id": "hotel-c1d34",
+    "storage_bucket": "hotel-c1d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375853310694:android:f3625f29cd021e0097d127",
+        "android_client_info": {
+          "package_name": "saadahmed.hotel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375853310694-2mjohim9c1iscmr6slegjoeoj6ph8h2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0k5dUAmzH16_yRGTXoCYQ_ihNBEsE6X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375853310694-2mjohim9c1iscmr6slegjoeoj6ph8h2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
